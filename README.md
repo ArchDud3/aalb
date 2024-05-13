@@ -1,1 +1,1 @@
-<a href="https://aalb.dev">Click here for an STD test</a>
+<a href="https://aalb.dev">aalb.dev</a>
